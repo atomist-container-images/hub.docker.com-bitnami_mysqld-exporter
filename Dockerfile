@@ -1,12 +1,42 @@
-# Tags: latest, 0.14.0-debian-10-r58, 0.14.0, 0-debian-10, 0
+# Tags: latest, 0.14.0-debian-10-r68, 0.14.0, 0-debian-10, 0
 FROM bitnami/mysqld-exporter:latest
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r58
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r68
 FROM bitnami/mysqld-exporter:0.14.0
 FROM bitnami/mysqld-exporter:0-debian-10
 FROM bitnami/mysqld-exporter:0
 
 # Tags: _
 FROM bitnami/mysqld-exporter:_
+
+# Tags: 0.14.0-debian-10-r67
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r67
+
+# Tags: 0.14.0-debian-10-r66
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r66
+
+# Tags: 0.14.0-debian-10-r65
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r65
+
+# Tags: 0.14.0-debian-10-r64
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r64
+
+# Tags: 0.14.0-debian-10-r63
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r63
+
+# Tags: 0.14.0-debian-10-r62
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r62
+
+# Tags: 0.14.0-debian-10-r61
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r61
+
+# Tags: 0.14.0-debian-10-r60
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r60
+
+# Tags: 0.14.0-debian-10-r59
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r59
+
+# Tags: 0.14.0-debian-10-r58
+FROM bitnami/mysqld-exporter:0.14.0-debian-10-r58
 
 # Tags: 0.14.0-debian-10-r57
 FROM bitnami/mysqld-exporter:0.14.0-debian-10-r57
@@ -61,33 +91,3 @@ FROM bitnami/mysqld-exporter:0.14.0-debian-10-r41
 
 # Tags: 0.14.0-debian-10-r40
 FROM bitnami/mysqld-exporter:0.14.0-debian-10-r40
-
-# Tags: 0.14.0-debian-10-r39
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r39
-
-# Tags: 0.14.0-debian-10-r38
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r38
-
-# Tags: 0.14.0-debian-10-r37
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r37
-
-# Tags: 0.14.0-debian-10-r36
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r36
-
-# Tags: 0.14.0-debian-10-r35
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r35
-
-# Tags: 0.14.0-debian-10-r34
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r34
-
-# Tags: 0.14.0-debian-10-r33
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r33
-
-# Tags: 0.14.0-debian-10-r32
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r32
-
-# Tags: 0.14.0-debian-10-r31
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r31
-
-# Tags: 0.14.0-debian-10-r30
-FROM bitnami/mysqld-exporter:0.14.0-debian-10-r30
